@@ -1,0 +1,8 @@
+.env
+credentials.json
+credentials_oauth.json
+token.pickle
+*.log
+current_mode.txt
+__pycache__/
+*.pyc
